@@ -15,7 +15,7 @@ body {
 } 
 
 header{
-  height: 99vh;
+  height: auto;
   scroll-behavior: smooth;
 }
 
